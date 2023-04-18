@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main() {
+    char st[20];
+    cout << "enter your name-"<<endl;
+    cin>>st;
+    cout<<"hello!!" <<st;
+    return 0;
+}
